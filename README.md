@@ -4,7 +4,7 @@ Welcome to my internship project repository! This repository contains the work I
 
 ## Internship Overview
 
-**Internship Duration:** [Specify the duration, e.g., June 2024 - July 2024]
+**Internship Duration:** 20 May 2024 to 20 June 2024
 
 **Internship Role:** Software Development Intern
 
@@ -38,19 +38,5 @@ Throughout this internship, I gained valuable experience and learned the followi
 - Gained experience in developing user-friendly applications with graphical user interfaces.
 - Learned how to manage time effectively and meet project deadlines.
 
-## Acknowledgments
-
-I would like to extend my gratitude to the Codsoft team for providing me with this opportunity. Special thanks to [mention any mentors or team members who helped you] for their guidance and support.
-
-## Contact Information
-
-For any questions or further information, feel free to reach out to me:
-
-- **Name:** Shubham Dobariya
-- **Email:** [Your Email]
-- **LinkedIn:** [Your LinkedIn Profile]
-- **Portfolio:** [Your Portfolio Website]
-
----
 
 Thank you for visiting my internship project repository!
